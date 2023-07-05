@@ -8,11 +8,12 @@
 <h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m working as a Junior Mobile App Developer
 
-- 🔭 I also work on Freelance projects 
+- 👨‍💻 I'm working as a Junior Mobile App Developer
+
+- 🔭  I also work on Freelance projects
   
-- 🌱 I’m currently learning Bloc
+- 🌱 I’m currently learning Node.js
   
 - 👯 I’m looking to collaborate on GitHub
   
