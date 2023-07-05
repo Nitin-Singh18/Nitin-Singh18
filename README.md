@@ -8,16 +8,15 @@
 <h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 🔭 I’m working as a Junior Mobile App Developer
 
-- 🔭 I’m currently working as a Freelancer
-
-- 📈 Building 2ByteCode - Flutter Community
+- 🔭 I also work on Freelance projects 
   
 - 🌱 I’m currently learning Bloc
   
 - 👯 I’m looking to collaborate on GitHub
   
-- 💬 Ask me about App Developement, DSA, Coding, etc.
+- 💬 Ask me about App development, DSA, Coding, UI/UX etc.
   
 - ⚡ I like exploring different technologies
 
