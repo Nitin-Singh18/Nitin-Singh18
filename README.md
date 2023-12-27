@@ -13,9 +13,7 @@
 
 - 🔭  I also work on Freelance projects
   
-- 🌱 I’m currently learning Node.js
-  
-- 👯 I’m looking to collaborate on GitHub
+- 🌱 I’m currently learning Native Android
   
 - 💬 Ask me about App development, DSA, Coding, UI/UX etc.
   
