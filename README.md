@@ -10,9 +10,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨‍💻 I'm a Mobile App Developer with 3 years of experience.
+- 👨‍💻 I'm a Mobile App Developer with 4.5 years of experience.
 - 💼 Currently working as a Flutter Developer.
-- 🧑‍💻 Contributed to production-level apps including finance, utility, and e-learning platforms.
+- 🧑‍💻 Contributed to production-level apps including finance, utility, SMS, and e-learning platforms.
 - 🌱 Continuously learning and exploring native iOS (Swift/SwiftUI).
 - ⚡ I like exploring different technologies
 
